@@ -1,10 +1,10 @@
-# Selenium 4.x with Python – Automation Notes & Examples
+# Selenium 4.x with Python – Automation Notes
 
-Author: **Seraj**
+Author: Seraj
 
 ---
 
-## 📌 Overview
+# 📌 Overview
 
 This repository is a **hands-on learning and reference project** for **Web Automation using Selenium 4.x with Python**.
 It is based on structured notes, practical examples, and assignments covering **Selenium fundamentals to advanced concepts**, including waits, locators, actions, Selenium Grid, Docker, PyTest, and Allure reporting.
@@ -18,7 +18,7 @@ The goal of this repository is to:
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 * **Language:** Python 3.x
 * **Automation Tool:** Selenium 4.x
@@ -30,7 +30,7 @@ The goal of this repository is to:
 
 ---
 
-## 📂 Repository Structure
+# 📂 Repository Structure
 
 ```
 selenium-python-automation/
@@ -69,16 +69,16 @@ selenium-python-automation/
 
 ---
 
-## ⚙️ Setup Instructions
+# ⚙️ Setup Instructions
 
-### 1️⃣ Clone the Repository
+# 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/<your-username>/selenium-python-automation.git
 cd selenium-python-automation
 ```
 
-### 2️⃣ Create & Activate Virtual Environment
+# 2️⃣ Create & Activate Virtual Environment
 
 ```bash
 python -m venv .venv
@@ -90,7 +90,7 @@ python -m venv .venv
 source .venv/bin/activate
 ```
 
-### 3️⃣ Install Dependencies
+# 3️⃣ Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -98,27 +98,27 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ How to Run Tests
+# ▶️ How to Run Tests
 
-### Run All Tests
+# Run All Tests
 
 ```bash
 pytest
 ```
 
-### Run a Specific Test File
+# Run a Specific Test File
 
 ```bash
 pytest tests/test_vwo_login_valid.py
 ```
 
-### Run with Allure Results
+# Run with Allure Results
 
 ```bash
 pytest --alluredir=reports/allure-results
 ```
 
-### Generate Allure Report
+# Generate Allure Report
 
 ```bash
 allure serve reports/allure-results
@@ -126,7 +126,7 @@ allure serve reports/allure-results
 
 ---
 
-## 📊 Reporting (Allure)
+# 📊 Reporting (Allure)
 
 Allure provides:
 
@@ -138,7 +138,7 @@ This repository is configured to generate **Allure-compatible results** for ever
 
 ---
 
-## 🧪 Covered Concepts
+# 🧪 Covered Concepts
 
 ✔ Selenium Architecture (Selenium 4 – W3C)
 ✔ WebDriver & Browser Drivers
@@ -157,7 +157,7 @@ This repository is configured to generate **Allure-compatible results** for ever
 
 ---
 
-## 🧠 Assignments Implemented
+# 🧠 Assignments Implemented
 
 * VWO Login Automation (Valid & Invalid)
 * Error Message Validation
@@ -166,7 +166,7 @@ This repository is configured to generate **Allure-compatible results** for ever
 
 ---
 
-## 🚀 Future Enhancements
+# 🚀 Future Enhancements
 
 * Page Object Model (POM)
 * Data-driven testing
@@ -176,9 +176,9 @@ This repository is configured to generate **Allure-compatible results** for ever
 
 ---
 
-## 👤 Author
+# 👤 Author
 
-**Seraj**
+Seraj
 Automation Testing Enthusiast | Selenium | Python | PyTest
 
 ---

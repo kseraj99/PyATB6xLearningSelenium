@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d73cccc-0845-4611-bd44-0ee0768d2937" name="Changes" comment="24 Dec">
-      <change beforePath="$PROJECT_DIR$/src/__init__.py" beforeDir="false" />
-    </list>
+    <list default="true" id="7d73cccc-0845-4611-bd44-0ee0768d2937" name="Changes" comment="Readme file added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -116,11 +115,20 @@
       <option name="project" value="LOCAL" />
       <updated>1766572429143</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Readme file added">
+      <option name="closed" value="true" />
+      <created>1766575029808</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1766575029808</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="24 Dec" />
-    <option name="LAST_COMMIT_MESSAGE" value="24 Dec" />
+    <MESSAGE value="Readme file added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Readme file added" />
   </component>
 </project>
