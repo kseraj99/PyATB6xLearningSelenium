@@ -1,6 +1,4 @@
 from selenium import webdriver
-
-import pytest
 import allure
 
 @allure.title("verify that we are able to open a page by using selenium")
@@ -13,5 +11,4 @@ def test_first_tc():
     assert driver.title == "TheTestingAcademy | Learn Software Testing and Automation Testing"
 
     driver.quit()
-
 
