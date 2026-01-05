@@ -5,7 +5,7 @@ find the userid field and password field
 Enter the username and password
 click on login button
 Verify the Upgrade now! button
-//button[@class='id-btn id-warning-btn-drk id-tkn-btn']
+
 """
 
 import time
