@@ -188,3 +188,25 @@ Automation Testing Enthusiast | Selenium | Python | PyTest
 If you find this repository useful, please give it a ⭐ on GitHub.
 
 Happy Testing! 🚀
+
+""
+Key Points to remember:-
+## **XPath Functions **
+
+
+- **Known Attribute** - //*[@id='btn-make-appointment']
+- **TAG Name** - //a[@id='btn-make-appointment']
+
+
+**Text Matching**
+
+1. Full Visible Text. 
+    1.  -> text()  -> `//a[text()='Make Appointment']` 
+    2. `//a[normalize-space()='Make Appointment']` 
+
+2. Partial Text -
+    1.  contain() -> `//a[contains(text(),'Make')]` 
+    2. `//a[starts-with(text(),'Make')]` 
+    3. `//a[ends-with(text(),'Make')]` 
+
+""
